@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajesh171289/rajesh171289.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### My Document
-Link here to download my document [Plan](/rajesh171289/rajesh171289.github.io/raw/master/Plan.xlsx) 
+Link here to download my document [Plan](https://github.com/rajesh171289/rajesh171289.github.io/raw/11375975ab4a2835764f9980a96a1c34f028b3ab/Plan.xlsx) 
 
 ### Support or Contact
 
